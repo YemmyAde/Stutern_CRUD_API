@@ -1,0 +1,4 @@
+DATABASE_USER:"postgres"
+DATABASE_NAME:stutern_api
+DATABASE_PASSWORD:asdfgjkl
+
